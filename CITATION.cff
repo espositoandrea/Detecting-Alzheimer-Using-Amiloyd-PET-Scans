@@ -1,0 +1,51 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Diagnosing Dementia Through the Automatic Analysis of
+  Amyloid PET Scans
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Andrea
+    family-names: Esposito
+    email: andrea.esposito@uniba.it
+    affiliation: University of Bari Aldo Moro
+    orcid: 'https://orcid.org/0000-0002-9536-3087'
+  - given-names: Graziano
+    family-names: Montanaro
+    orcid: 'https://orcid.org/0000-0001-8806-7688'
+repository-code: >-
+  https://github.com/espositoandrea/Detecting-Alzheimer-Using-Amiloyd-PET-Scans
+license: GPL-3.0
+preferred-citation:
+  type: conference-paper
+  conference:
+    name: 2021 IEEE Symposium Series on Computational Intelligence
+    alias: IEEE SSCI 2021
+  collection-title: Proceedings of the 2021 IEEE Symposium Series on Computational Intelligence
+  collection-type: proceedings
+  authors:
+  - family-names: "Castellano"
+    given-names: "Giovanna"
+    orcid: "https://orcid.org/0000-0002-6489-8628"
+  - family-names: "Andrea"
+    given-names: "Esposito"
+    orcid: "https://orcid.org/0000-0002-9536-3087"
+  - family-names: "Marco"
+    given-names: "Mirizio"
+    orcid: "https://orcid.org/0000-0001-6137-328X"
+  - family-names: "Graziano"
+    given-names: "Montanaro"
+    orcid: "https://orcid.org/0000-0001-8806-7688"
+  - family-names: "Vessio"
+    given-names: "Gennaro"
+    orcid: "https://orcid.org/0000-0002-0883-2691"
+  doi: "10.1109/SSCI50451.2021.9660102"
+  start: 1
+  end: 6
+  title: "Detection of Dementia Through 3D Convolutional Neural Networks Based on Amyloid PET"
+  year: 2021
